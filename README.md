@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hui-Hsuan (Andrea)</h1>
-<h3 align="center">A passion System Engineer from Taiwan~</h3>
-
+<h3 align="center">An enthusiastic Female System Engineer from Taiwan</h3>
 
 I'm Hui-Hsuan(Andrea) Shen, a System Engineer, currently looking for new opportunities in U.S..
 
@@ -11,7 +10,7 @@ I'm Hui-Hsuan(Andrea) Shen, a System Engineer, currently looking for new opportu
 
 😄 Pronouns: She/her 
 
-🌱 I’m currently learning Python
+🌱 I’m currently learning everything
 
 ⚡ Fun fact: Fluent in English, Mandarin, and Japanese
 
